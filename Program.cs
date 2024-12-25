@@ -12,16 +12,16 @@ namespace c2_replacer
         static void Main(string[] args)
         {
             // Pfad zum Ordner mit den BMP-Dateien
-            string textureFolderPath = "D:\\von_hd\\Texture2DBMP";
+            string textureFolderPath = "PathtoTextureFolder";
 
             // Erstelle ein ABI-Objekt und lade die .ABI-Datei
-            ABI abi = new ABI("D:\\c2_mod\\XP.ABI");
+            ABI abi = new ABI("PathtoABIFile");
 
             // Ersetze die Texturen aus den BMP-Dateien im angegebenen Ordner
             abi.ReplaceTexturesFromFolder(textureFolderPath);
 
-            // Speichere die ge‰nderte ABI-Datei
-            abi.SaveABIFile("D:\\c2_mod\\XP2.ABI");
+            // Speichere die ge√§nderte ABI-Datei
+            abi.SaveABIFile("PathtoABIFile");
 
             Console.WriteLine("Texturen wurden ersetzt und die Datei gespeichert.");
         }
