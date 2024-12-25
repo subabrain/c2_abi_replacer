@@ -1,0 +1,16 @@
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\bin\Debug\net6.0-windows\c2_replacer.exe
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\bin\Debug\net6.0-windows\c2_replacer.deps.json
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\bin\Debug\net6.0-windows\c2_replacer.runtimeconfig.json
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\bin\Debug\net6.0-windows\c2_replacer.dll
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\bin\Debug\net6.0-windows\c2_replacer.pdb
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.Form1.resources
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.AssemblyInfo.cs
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.dll
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\refint\c2_replacer.dll
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.pdb
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\c2_replacer.genruntimeconfig.cache
+C:\Users\rober\source\repos\c2_replacer\c2_replacer\obj\Debug\net6.0-windows\ref\c2_replacer.dll
